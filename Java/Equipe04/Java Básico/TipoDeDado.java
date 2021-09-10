@@ -19,9 +19,9 @@ public class TipoDeDado {
 		double numero9 = 3.1415926d;
 		char sexo = 'o';
 		
-		/*Tipo de Dado String (Não Primitivo)
+		/*Tipo de Dado String (NÃ£o Primitivo)
 		 * String
 		 * */
-		String nome="Jailson";
+		String nome="Jailson Costa dos Santos";
 	}
 }
